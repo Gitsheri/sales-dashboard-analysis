@@ -45,4 +45,4 @@ The dataset contains retail transaction data including order date, sales, profit
 - `images/dashboard_overview.png`
 
 ## Author
-Your Name
+Shehryar Shaukat
