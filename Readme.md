@@ -34,15 +34,3 @@ The dataset contains retail transaction data including order date, sales, profit
 - A small number of products contributed a large share of total sales.
 - Total sales reached $2.33M, with total profit of $292.3K across 5,111 orders.
 
-## Recommendations
-- Focus marketing and inventory planning on high-performing Technology products.
-- Review Furniture pricing and costs to improve profitability.
-- Use top-selling products for promotions, bundling, and stock planning.
-
-## Files Included
-- `data/superstore_sales.csv`
-- `dashboard/sales_dashboard.pbix`
-- `images/dashboard_overview.png`
-
-## Author
-Shehryar Shaukat
